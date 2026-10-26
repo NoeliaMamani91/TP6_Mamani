@@ -1,0 +1,20 @@
+{
+  "tp_id": "TSO-2026-TP6",
+  "student": {
+    "name": "Noelia Carina Mamani",
+    "lu": "LIE.000039/PUI000080"
+  },
+  "timestamp": "2026-10-26T14:45:43.172Z",
+  "ej1_primer_ajuste": "h20_h10_h12",
+  "ej2_mejor_ajuste": "h12_h9_h10",
+  "ej3_peor_ajuste": "h20_h18_h15",
+  "ej11_regla_cincuenta": "un_tercio",
+  "ej4_buddy_system": "16kb",
+  "ej6_paginacion_calculo_20000": "p4_d3616",
+  "ej5_dir_logica_fisica_bits": "23_22",
+  "ej7_paginacion_calculo_32768": "p8_d0",
+  "ej8_tabla_paginas_traduccion": "fallo_pagina_no_cargada",
+  "ej9_segmentacion_traduccion": "1034",
+  "ej10_segmentacion_violacion": "violacion_limite_trap",
+  "ej12_segmentacion_paginada": "8_paginas"
+}
